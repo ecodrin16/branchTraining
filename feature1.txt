@@ -4,3 +4,5 @@ editing file on main branch
 editing the file in branch feature 2 to create a conflict
 resolving conflict
 
+
+blablabla for feature 2 merging
